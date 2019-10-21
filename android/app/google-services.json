@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "955385015233",
+    "firebase_url": "https://firetasks-51a53.firebaseio.com",
+    "project_id": "firetasks-51a53",
+    "storage_bucket": "firetasks-51a53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955385015233:android:6a4b9ee28f51b6f0ab9d40",
+        "android_client_info": {
+          "package_name": "com.firetasksnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955385015233-eefdpnqiq6469mvbui8t0l9h280ogo29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firetasksnew",
+            "certificate_hash": "e33b4878018bf40ed1c018381add2f0eaad9958a"
+          }
+        },
+        {
+          "client_id": "955385015233-snb78gq0p53fvc0cf2lf69u8i32rf3g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmbcu-5UpomsaDl9nZMUxWsr_LJnyQB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955385015233-snb78gq0p53fvc0cf2lf69u8i32rf3g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
